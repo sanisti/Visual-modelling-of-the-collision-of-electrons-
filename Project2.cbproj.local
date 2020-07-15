@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/14 22:47:55.000.903,=C:\Users\István\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2018/12/14 22:47:55.000.749,=C:\Users\István\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2018/12/14 22:48:43.000.129,C:\Users\István\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\István\Documents\Embarcadero\Studio\Projects\grafikon\Unit2.dfm</Transaction>
+    <Transaction>2018/12/14 22:48:43.000.129,C:\Users\István\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Users\István\Documents\Embarcadero\Studio\Projects\grafikon\Unit2.h</Transaction>
+    <Transaction>2018/12/14 22:48:43.000.129,C:\Users\István\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Users\István\Documents\Embarcadero\Studio\Projects\grafikon\Unit2.cpp</Transaction>
+    <Transaction>2018/12/14 22:48:49.000.783,C:\Users\István\Documents\Embarcadero\Studio\Projects\Project2PCH1.h=C:\Users\István\Documents\Embarcadero\Studio\Projects\grafikon\Project2PCH1.h</Transaction>
+    <Transaction>2018/12/14 22:48:51.000.034,C:\Users\István\Documents\Embarcadero\Studio\Projects\Project2.cbproj=C:\Users\István\Documents\Embarcadero\Studio\Projects\grafikon\Project2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
